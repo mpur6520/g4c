@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.game{
+  width: 500px;
+  height: 500px;
+}
