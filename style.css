@@ -4,6 +4,6 @@ html {
 }
 
 .game{
-  width: 500px;
-  height: 500px;
+  padding: 10px 10px;
+  background: #56815d;
 }
